@@ -11,5 +11,5 @@ This repository contains multiple machine learning projects across various domai
 ### Each folder contains the relevant code, data, with project-specific details.
 
 ## NB: Data
-The datasets used in these projects have been was uploaded with their associated names. 
-To test the codes, you need to import each dataset associated with the project you have opened.
+The datasets used in these projects are labeled according to their respective project files.
+To run the code, simply import the corresponding dataset for the specific project you're working with.
