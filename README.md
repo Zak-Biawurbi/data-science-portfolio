@@ -11,4 +11,5 @@ This repository contains multiple machine learning projects across various domai
 ### Each folder contains the relevant code, data, with project-specific details.
 
 ## NB: Data
-The dataset used in this project was provided privately and cannot be shared publicly due to unknown licensing terms. To test the code, you may use any open dataset with similar structure or features.
+The datasets used in these projects have been was uploaded with their associated names. 
+To test the codes, you need to import each dataset associated with the project you have opened.
