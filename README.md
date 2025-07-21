@@ -8,7 +8,7 @@ This repository contains multiple machine learning projects across various domai
 3. Car Price Prediction (Automotive)
 4. Telecom Churn Prediction (Customer Retention)
 5. Heart Disease Prediction (Healthcare)
-# Each folder contains the relevant code, data, and with project-specific details.
+## Each folder contains the relevant code, data, with project-specific details.
 
 # NB: Data
 The dataset used in this project was provided privately and cannot be shared publicly due to unknown licensing terms. To test the code, you may use any open dataset with similar structure or features.
